@@ -1,0 +1,27 @@
+.main{
+color:blue;
+background-image:url("th.jpeg");
+margin-top:20px;
+margin-right:20px;
+margin-bottom:20px;
+margin-left:20px;
+height:80%;
+}
+.two {
+
+color:red;
+text-align:center;
+margin-top:160px;
+}
+.four{
+text-align:center;
+margin-top:300px;
+}
+ul li{
+display:inline-block;
+}
+ul{
+text-align:right;
+}
+
+

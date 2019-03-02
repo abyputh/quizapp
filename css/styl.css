@@ -1,0 +1,28 @@
+.one {
+background-image:url("green.jpg");
+}
+.one h1
+{
+font-family:verdana;
+font-size:250%;
+text-align:center;
+color:red;
+}
+div
+{
+text-align:auto;
+border: 2px #000000 solid;
+background-color:orange;
+color:#000000;
+margin:auto;
+width:80%;
+}
+.three{
+text-align:center;
+border-color:orange;	
+
+}
+.reg{
+background-color:#aaabca;
+
+}
